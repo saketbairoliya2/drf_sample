@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ['python-practice-saketbairoliya2.c9users.io']
 # Application definition
 
 INSTALLED_APPS = [
+    'retail',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
